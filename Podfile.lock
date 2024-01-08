@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.16)
+  - KeychainAccess (4.2.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - KeychainAccess
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+
+PODFILE CHECKSUM: b717854b68dacb7103e96033bfe70e035825ee8e
+
+COCOAPODS: 1.12.1
